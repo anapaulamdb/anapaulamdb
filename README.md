@@ -7,7 +7,7 @@
 
 - 👩‍💻 Sou estudante de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas.
 - 🌱 Atualmente estou aprendendo:
-    - [![Ruby](https://cdn.emojidex.com/emoji/seal/Ruby.png "Ruby") ](https://www.ruby-lang.org Ruby;
+    💎 Ruby;
     ✨ Git 
     🐍 Python
 
