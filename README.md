@@ -7,9 +7,13 @@
 
 - 👩‍💻 Sou estudante de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas.
 - 🌱 Atualmente estou aprendendo:
-    💎 Ruby;
-    ✨ Git 
-    🐍 Python
+        - 💎 Ruby;
+        - ✨ Git; 
+        - 🐍 Python.
+- 👩‍🎓 Formação: Técnico em Informática - IFAM.
+- 📚 Cursos adicionais: Programador Web - FPFTech.
+- 🔭 Procurando oportunidades em Desenvolvimento Web Front-End.
+
 
 <!--
 **anapaulamdb/anapaulamdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
