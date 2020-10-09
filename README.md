@@ -5,13 +5,9 @@
 
 ### Sobre mim
 
-- 👩‍💻 Sou estudante de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas.
-- 🌱 Atualmente estou aprendendo:
-        - 💎 Ruby;
-        - ✨ Git; 
-        - 🐍 Python.
-- 👩‍🎓 Formação: Técnico em Informática - IFAM.
-- 📚 Cursos adicionais: Programador Web - FPFTech.
+- 👩‍💻 Estudante de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas.
+- 🌱 Atualmente estou aprendendo: 💎 Ruby ✨ Git e 🐍 Python.
+- 🌳 Conhecimento em HTML, CSS, JavaScript, C, PHP e Java.
 - 🔭 Procurando oportunidades em Desenvolvimento Web Front-End.
 
 
