@@ -1,7 +1,7 @@
 ## Olá, me chamo Ana 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anapaulamdb)](https://github.com/anapaulamdb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaulamdb/)](https://www.linkedin.com/in/anapaulamdb/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/anapaulamdb)](https://github.com/anapaulamdb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaulamdb/)](https://www.linkedin.com/in/anapaulamdb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anapaulamdb@gmail.com)](mailto:anapaulamdb@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anapaulamdb_/)](https://instagram.com/anapaulamdb_)
 
