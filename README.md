@@ -8,12 +8,10 @@
 ### Sobre mim
 
 - 👩‍💻 Estudante de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas.
-- 🌱 Atualmente estou aprendendo: 💎 Ruby ✨ Git e 🐍 Python.
-- 🌳 Conhecimento em HTML, CSS, JavaScript, C, PHP e Java.
-- 🔭 Procurando oportunidades em Desenvolvimento Web Front-End.
-
+- 🌱 Atualmente estou aprendendo: Docker, Terraform e Kubernets
 
 <!--
+- 🌳 Conhecimento em HTML, CSS, JavaScript, C, PHP, Java, Git, .
 **anapaulamdb/anapaulamdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
